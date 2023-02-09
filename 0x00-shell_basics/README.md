@@ -6,3 +6,4 @@
 5. 4-listmorefiles script displays all contents of the current directory including hidden files.
 6. 5-listfilesdigitonly script displays the contents of the current directory with numerical user and group ids.
 7. 6-firstdirectory script creates a directory "/tmp/my_first_directory".
+8. 7-movethatfile script moves a file "/tmp/betty" to "/tmp/my_first_directory/".
