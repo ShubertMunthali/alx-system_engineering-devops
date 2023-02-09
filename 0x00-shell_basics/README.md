@@ -15,3 +15,4 @@
 14. 13-symbolic_link script creates a link to "/bin/ls" in current working directory.
 15. 14-copy_html script copies all html files from current working directory to its parent.
 16. 100-lets_move script move all files starting with a capital letter to "/tmp/u" directory.
+17. 101-clean_emacs script deletes all emacs files ending with "~" in the working directory.
