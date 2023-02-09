@@ -12,3 +12,4 @@
 11. 10-back script navigates back to the previous directory.
 12. 11-lists script list contents of curren working directory, parent of current working directory and "/boot" directory respectively.
 13. 12-filetype script checks the type of the file "/tmp/iamfile".
+14. 13-symbolic_link script creates a link to "/bin/ls" in current working directory.
