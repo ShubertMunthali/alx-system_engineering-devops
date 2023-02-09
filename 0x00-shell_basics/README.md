@@ -7,4 +7,5 @@
 6. 5-listfilesdigitonly script displays the contents of the current directory with numerical user and group ids.
 7. 6-firstdirectory script creates a directory "/tmp/my_first_directory".
 8. 7-movethatfile script moves a file "/tmp/betty" to "/tmp/my_first_directory/".
-9. 8-firstdelete script delete the file "/tmp/my_first_directory/betty".
+9. 8-firstdelete script deletes the file "/tmp/my_first_directory/betty".
+10. 9-firstdirdeletion script deletes the directory "/tmp/my_first_directory".
