@@ -11,3 +11,4 @@
 10. 9-firstdirdeletion script deletes the directory "/tmp/my_first_directory".
 11. 10-back script navigates back to the previous directory.
 12. 11-lists script list contents of curren working directory, parent of current working directory and "/boot" directory respectively.
+13. 12-filetype script checks the type of the file "/tmp/iamfile".
