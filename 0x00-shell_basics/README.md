@@ -10,3 +10,4 @@
 9. 8-firstdelete script deletes the file "/tmp/my_first_directory/betty".
 10. 9-firstdirdeletion script deletes the directory "/tmp/my_first_directory".
 11. 10-back script navigates back to the previous directory.
+12. 11-lists script list contents of curren working directory, parent of current working directory and "/boot" directory respectively.
